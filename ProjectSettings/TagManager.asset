@@ -4,15 +4,15 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Ground
+  - Ladder
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ground
+  - PostProcessing
   - Water
   - UI
-  - 
+  - Hands
   - 
   - 
   - 
@@ -41,7 +41,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Ground
-    uniqueID: 3903150811
     locked: 0
